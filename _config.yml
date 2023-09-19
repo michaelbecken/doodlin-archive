@@ -6,8 +6,7 @@ favicon: "/assets/ico.png"
 # bio
 header: Äggie Lee Pak Yee
 desc: >
-      李 柏 誼 <br>
-      [Lei5 Paak3 Ji6]'s doodlin' archive
+      李 柏 誼 's doodlin' archive
 
 # build settings
 markdown: kramdown
